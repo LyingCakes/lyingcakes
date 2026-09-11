@@ -23,7 +23,7 @@ Everybody knows everybody says there are no stupid questions but there are stupi
 
 My biggest advocacy for people learning new subjects is to be able to communicate when there is something wrong or something they do not understand. We have all been in a position where we feel completely lost as to what has just been said, and feel isolated in our limited understanding for us to throw our hands in the air and say "I don't get it, nothing makes sense". Something makes sense and being able to walk back your steps to your last point of understanding helps pinpoint the area of confusion. SMART questions must follow this idea.
 
-<img width="800px" class="rounded float-start pe-4" src="../img/smart-questions/stack_overflow_good.png">
+<img width="800px" class="rounded float-start pe-4" src="../img/smart-questions/stack_overflow_good.PNG">
 
 [StackOverflow Source](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git)
 
@@ -31,7 +31,9 @@ One of the most highest rated Stack Overflow questions asked 17 years ago. The p
 
 On the other hand, there are questions that provide exceptionally poor context.
 
-<img width="800px" class="rounded float-start pe-4" src="../img/smart-questions/stack_overflow_bad.png">
+<img width="800px" class="rounded float-start pe-4" src="../img/smart-questions/stack_overflow_bad.PNG">
+
+[StackOverflow Source]([https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git](https://stackoverflow.com/questions/80002321/why-temporary-ipv6-address-link-local-ipv6-address-on-my-internet-connection))
 
 Now, I am not an expert in IP configs. At all. But the situation the user provided does not make it clear as to what the problem or source of confusion is. The user does not specify on what it is they are using ipconfig. Maybe it is their home desktop, maybe it is a raspberry pi test bench, we do not know. Then the user is trying to make assumptions on what they see and trying to use StackOverflow to verify if their assumptions are correct, as opposed to looking up documentation. The post as a whole does not convey a problem that needs solving, it instead conveys a curiousity the user does not feel researching the answer for.
 
