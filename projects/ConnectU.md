@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/projects/speech.png
+image: /img/projects/speech.png
 title: "ConnectU"
 date: 2025
 published: true
