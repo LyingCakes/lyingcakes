@@ -9,9 +9,7 @@ labels:
   - Engineering
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/software_engineering/incredibles_bob_office.jpg">
-
-
+<img width="600px" class="rounded float-start pe-4" src="../img/software_engineering/incredibles_bob_office.jpg"><br>
 
 *What about software science?*
 
