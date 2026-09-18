@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/projects/Merged Simple.png
+image: ../img/projects/Merged%20Simple.png
 title: "UHDT Air Delivery"
 date: 2024
 published: true
