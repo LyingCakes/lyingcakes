@@ -11,7 +11,7 @@ labels:
   - Coding Standards
 ---
  
-<img width="600px" class="rounded float-start pe-4" src="../img/coding_quality.png"><br>
+<img width="600px" class="rounded float-start pe-4" src="../img/code_quality.png"><br>
  
 *I am going to add spaces in every newline to spite lint*
  
