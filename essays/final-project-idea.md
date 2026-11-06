@@ -11,7 +11,7 @@ labels:
   -  Proposal
 ---
 
-# First Idea, Music Sharing Website
+# First Choice, Music Sharing Website
 
 *La la laaaaaa, laaa la la*
 
@@ -33,7 +33,7 @@ Our application will enable students and other users to be able to showcase what
 
 To separate our application from the simpler ICS 314 experiences, like digits, our website will contain more features for users to share their curated lists. Advanced features include the ability to like other playlists and have the most popular playlist per category featured on a leaderboard. Additionally have the ability to embed Youtube links to listen to the music video without having to search for the song outside of the application.
 
-# Next Idea, Study Space Finder
+# Second Choice, Study Space Finder
 
 *Zzzzzzzzzzzzzzzzzzz*
 
