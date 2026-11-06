@@ -45,14 +45,14 @@ Solution: We would create an online application where students could login, revi
 
 # Approach
 
-### Mockup page ideas:
-#### Landing page
-#### Browsing location page
-#### User home page
-#### Location Details page
-#### My profile and favorites page
-#### Request a location page
-#### Admin page
+#### Mockup page ideas:
+Landing page
+Browsing location page
+User home page
+Location Details page
+My profile and favorites page
+Request a location page
+Admin page
 
 # Use Case Ideas
 
@@ -64,7 +64,9 @@ If a usual spot is full or crowded, a student would be able to open their person
 
 # Beyond the Basics
 
-### If we have time after completing the main features, we could add an interactive campus map so students can see where locations are in relation to their next class.
-### Another addition would be temporary crowd reports. Students could mark a location as quiet, moderately busy, or crowded. Each report would show when it was submitted and expire after a short period so older reports would not appear current.
-### We could also let students mark reviews as helpful. This would make useful details, such as where outlets are located or when a space tends to get noisy, easier to find. Our first priority would be getting browsing, filtering, favorites, preferences, and location requests working before adding these extra features.
+If we have time after completing the main features, we could add an interactive campus map so students can see where locations are in relation to their next class.
+
+Another addition would be temporary crowd reports. Students could mark a location as quiet, moderately busy, or crowded. Each report would show when it was submitted and expire after a short period so older reports would not appear current.
+
+We could also let students mark reviews as helpful. This would make useful details, such as where outlets are located or when a space tends to get noisy, easier to find. Our first priority would be getting browsing, filtering, favorites, preferences, and location requests working before adding these extra features.
 
