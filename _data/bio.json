@@ -2,7 +2,7 @@
   "basics": {
     "name": "Timothy Lovejoy",
     "label": "Computer Engineering Student",
-    "picture": "https://media.licdn.com/dms/image/v2/D5603AQEYgL6dNGYyLQ/profile-displayphoto-shrink_400_400/B56ZTJibnhGUAk-/0/1738548034352?e=1790812800&v=beta&t=YJXAnvCTSJxhOcwhR68YXD3Cef8r2WeJjQ7Gs3-cs5o",
+    "picture": "./profile.jpg",
     "email": "tlovejoy@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https://lyingcakes.github.io/lyingcakes/",
